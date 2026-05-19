@@ -16,6 +16,9 @@ Download the three required files from latest release https://github.com/majad00
 - `loader.sh`
 - `openwrt_restore_bundle.tar.gz`
 - `restore_bundle_ex5601.tar.gz`
+```sh
+  wget https://github.com/majad00/zyxel-ex5601-openwrt-to-OEM-converter/releases/download/1.1/{loader.sh,openwrt_restore_bundle.tar.gz,restore_bundle_ex5601.tar.gz}
+```
 
 Copy these two files to the router under `/tmp`:
 
